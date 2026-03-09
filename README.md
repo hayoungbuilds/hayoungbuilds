@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Hayoung</h1>
 <h3 align="left">Frontend Developer focused on clean code and thoughtful implementation</h3>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 Building side projects with **Next.js** — fulfillment dashboard, real-time monitoring
 
-- 💬 Ask me about **react, next.js**
+- 💬 Ask me about **react, next.js, typescript**
 
 - 📫 How to reach me **madebyhayoung@gmail.com**
 
